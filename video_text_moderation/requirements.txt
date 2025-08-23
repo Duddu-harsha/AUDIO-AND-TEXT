@@ -1,0 +1,26 @@
+# Core dependencies for video text moderation
+torch>=1.9.0
+torchvision>=0.10.0
+transformers>=4.20.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=8.3.0
+
+# PaddleOCR dependencies
+paddleocr>=2.6.0
+paddlepaddle-gpu>=2.4.0  # Use paddlepaddle for CPU-only
+shapely>=1.8.0
+
+# Utility libraries
+pathlib2>=2.3.0
+tqdm>=4.64.0
+argparse
+
+# Optional GPU acceleration (CUDA support)
+# Uncomment if you have CUDA-capable GPU and want to ensure compatibility
+# torch-audio>=0.9.0
+# cuda-toolkit>=11.0  # Ensure CUDA toolkit is installed separately
+
+# Development and debugging
+# pytest>=6.0.0  # Uncomment for testing
+# black>=22.0.0  # Uncomment for code formatting

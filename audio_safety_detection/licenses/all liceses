@@ -1,0 +1,106 @@
+🤖 Third-Party Model Licenses
+Speech Recognition Models
+1. OpenAI Whisper Models
+
+Models: whisper-large-v3, whisper-medium, whisper-base
+License: Apache 2.0 License
+Source: https://github.com/openai/whisper
+Usage: ✅ Commercial use allowed
+Attribution: Required
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+Safety Classification Models
+2. Unitary AI Toxic-BERT
+
+Model: unitary/toxic-bert
+License: Apache 2.0 License
+Source: https://huggingface.co/unitary/toxic-bert
+Usage: ✅ Commercial use allowed
+Attribution: Required
+
+3. Martin-HA Toxic Comment Model
+
+Model: martin-ha/toxic-comment-model
+License: MIT License
+Source: https://huggingface.co/martin-ha/toxic-comment-model
+Usage: ✅ Commercial use allowed
+Attribution: Required
+
+4. KoalaAI Text Moderation
+
+Model: KoalaAI/Text-Moderation
+License: Apache 2.0 License
+Source: https://huggingface.co/KoalaAI/Text-Moderation
+Usage: ✅ Commercial use allowed
+Attribution: Required
+
+📚 Python Libraries Licenses
+Core Dependencies
+PyTorch
+
+License: BSD 3-Clause License
+Usage: ✅ Commercial use allowed
+Source: https://pytorch.org/
+
+Transformers (Hugging Face)
+
+License: Apache 2.0 License
+Usage: ✅ Commercial use allowed
+Source: https://github.com/huggingface/transformers
+
+FFmpeg-Python
+
+License: Apache 2.0 License
+Usage: ✅ Commercial use allowed
+Source: https://github.com/kkroening/ffmpeg-python
+
+Faster-Whisper
+
+License: MIT License
+Usage: ✅ Commercial use allowed
+Source: https://github.com/guillaumekln/faster-whisper
+
+Detoxify
+
+License: Apache 2.0 License
+Usage: ✅ Commercial use allowed
+Source: https://github.com/unitaryai/detoxify
+
+⚖️ Legal Compliance Summary
+✅ SAFE FOR COMMERCIAL USE
+All components in this system are licensed under permissive licenses that allow:
+
+✅ Commercial use
+✅ Modification
+✅ Distribution
+✅ Private use
+
+📋 REQUIREMENTS
+To stay compliant, you must:
+
+Include Original Licenses: Keep all license files
+Provide Attribution: Credit the original authors
+Include Copyright Notices: Maintain copyright statements
+No Warranty Claims: Don't claim warranties from original authors
+
+📄 Required Attribution
+In Your Application/Documentation:
+This software uses the following open-source components:
+
+- OpenAI Whisper (Apache 2.0) - Speech recognition models
+- Unitary AI Toxic-BERT (Apache 2.0) - Toxicity detection
+- Hugging Face Transformers (Apache 2.0) - ML framework
+- PyTorch (BSD 3-Clause) - Deep learning framework
+- FFmpeg (LGPL/GPL) - Audio/video processing
+
+Full license texts are available in the LICENSES directory.
+For Commercial Products:
+Include this in your "About" section, documentation, or legal notices.
